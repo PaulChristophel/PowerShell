@@ -1,0 +1,6 @@
+[submodule "xInstallGit"]
+	path = xInstallGit
+	url = git@github.com:PaulChristophel/xInstallGit.git
+[submodule "xSecPol"]
+	path = xSecPol
+	url = git@github.com:PaulChristophel/xSecPol.git
